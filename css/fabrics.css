@@ -1,0 +1,29 @@
+
+/* Header */
+
+.fabrics-landing{
+    width: 100%;
+    position: relative;
+    top: 100px;
+    height: 40vh;
+    background:linear-gradient(rgba(0, 0, 0, 0.379),#4169e1),url("/assets/Images/Landing page/Gallery/fabric.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-bottom: 10px solid #c9ff00;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #c9ff00;
+}
+
+
+
+
+.fabrics{
+    margin: 150px 20px !important;
+    text-align: center;
+    
+}
+
